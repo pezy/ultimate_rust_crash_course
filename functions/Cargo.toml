@@ -1,0 +1,7 @@
+[package]
+name = "functions"
+version = "0.1.1"
+authors = ["pezy<mail@viewre.org>"]
+edition = "2021"
+
+[dependencies]
